@@ -1,5 +1,5 @@
 ### General idea
-- Group up all the elements with the same degree
+- Group up all the terms with the same degree
 - Discover the polynomial degree
 - Build the reduced form
 - If the polynomial degree is 2:
