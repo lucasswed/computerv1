@@ -12,7 +12,7 @@
 
 ################ PROGRAM ################
 
-NAME	=	 computerV1
+NAME	=	 computor
 
 ################ TERMINAL ###############
 
@@ -40,7 +40,7 @@ _CLASSES = $(_SRC)classes/
 
 CC		=	c++
 CFLAGS	=	-Wall -Werror -Wextra -g -fsanitize=address
-SRCS	=	$(_SRC)main.cpp
+SRCS	=	$(_SRC)main.cpp $(_SRC)errors.cpp
 OBJS	=	$(patsubst $(_SRC)%.cpp,$(_OBJ)%.o,$(SRCS))
 DEPS	=
 LIBS	=

@@ -6,3 +6,5 @@
 -- Build basic the fiendish quadratic equation
 -- Check the polarity of the discriminant
 - Calculate all
+
+- Confirm the result subing the result in the original equation
